@@ -1,0 +1,2 @@
+ok - host: one exit-1 engine turn without a report retries the same wake once before main is disturbed
+not ok - noreport: the host did not hand the wake to main

@@ -1,0 +1,5 @@
+not ok - noreport: not handed: ==> /private/var/folders/p2/9_g0mt3j50zgw44_x202r9xm0000gp/T/fm-supervision-host.ElX2hr/away-noreport/host.out <==
+watcher: started pid=8906 (beacon fresh)
+
+==> /private/var/folders/p2/9_g0mt3j50zgw44_x202r9xm0000gp/T/fm-supervision-host.ElX2hr/away-noreport/state/.supervision-host.log <==
+1791974915	start	gen=host-8607-1791974913	primary=claude

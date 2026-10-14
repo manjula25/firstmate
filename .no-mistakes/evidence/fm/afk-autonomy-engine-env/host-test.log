@@ -1,0 +1,3 @@
+ok - host: one exit-1 engine turn without a report retries the same wake once before main is disturbed
+not ok - closed successor: the Stop hook did not finish: 1791968276	start	gen=host-12997-1791968274	primary=claude
+bash tests/fm-supervision-host.test.sh  49.56s user 98.14s system 69% cpu 3:31.89 total

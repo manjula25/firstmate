@@ -1,0 +1,6 @@
+not ok - exit-one retry: the same wake was not recovered: watcher: started pid=4130 (beacon fresh)
+signal: /private/var/folders/p2/9_g0mt3j50zgw44_x202r9xm0000gp/T/fm-supervision-host.i04x6s/away-exit-one-retry/state/demo.status
+supervision-host: the successor watcher cycle could not be verified before handling; this wake is yours
+1791971742	start	gen=host-3485-1791971734	primary=claude
+1791972003	to-main	the successor watcher cycle could not be verified before handling; this wake is yours
+rc=1
